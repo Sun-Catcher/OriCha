@@ -1,0 +1,1 @@
+[[Angel]], [[Ignis]], [[Plague]], [[Justice]], [[Serpent]], [[Silver]], [[Sacerdote]]

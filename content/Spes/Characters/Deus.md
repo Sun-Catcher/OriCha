@@ -1,0 +1,1 @@
+[[Sacerdotisa]], [[Sacerdote]], [[Plague]], [[Ignis]], [[Justice]], [[Haden]]
