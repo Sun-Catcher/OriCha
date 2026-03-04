@@ -1,5 +1,5 @@
 ---
-title: Menu
+title: Index
 created: 02/03/2026
 last-modified: 03/02/2026
 ---
