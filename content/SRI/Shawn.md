@@ -6,14 +6,14 @@ last-modified: 03/03/2026
 # SOBRE
 
 <img src="IMGs/shawnTransform.gif" style="width:48%;float:right; margin:4px;">
-Nome: Shawn;
-Idade: Desconhecida, comumente usa o corpo de um homem cisgenero na casa dos 20.
-Espécie: Não nomeada.
-Orientação: Para padrões humanos ele é Queer.
-Gênero: Sua espécie não tem gênero. Aceita qualquer pronome. 
-
+Nome: Shawn;<br>
+Idade: Desconhecida, comumente usa o corpo de um homem cisgenero na casa dos 20.<br>
+Espécie: Não nomeada.<br>
+Orientação: Para padrões humanos ele é Queer.<br>
+Gênero: Sua espécie não tem gênero. Aceita qualquer pronome. <br>
+<br>
 Shawn é um ser amigável, com tendências levemente possessivas. Não se irrita fácil e seu senso de justiça é... Questionável. Gosta de provocar, brincar e até mesmo assustar. Tem um sorriso permanente no rosto (apenas quando está com sua face e não a de outra pessoa) especificamente por saber que incomoda um grande numero de pessoas.
-Aceita ser feito de brinquedo desde que também possa fazer os outros de brinquedo (qualquer sentido).
+Aceita ser feito de brinquedo desde que também possa fazer os outros de brinquedo (qualquer sentido).<br>
 <img src="IMGs/shawn1.png" style="width:40%; float:left; margin:40px;">
 
 | Gostos                                                                          | Desgostos                          |
@@ -24,7 +24,6 @@ Aceita ser feito de brinquedo desde que também possa fazer os outros de brinque
 | O conceito do Amor.                                                             | Ser enganado.                      |
 | Jogos que envolvem achar um Impostor.                                           | Ser visto apenas como um monstro.  |
 <br>
-
 # A criatura
 
 Antes de misturar-se com humanos ele não tinha um nome. Shawn é seu nome de **escolha**, normalmente usa ele quando não está usando a **face de outro ser**. O rosto de "Shawn" é também feito por escolha própria dele, sendo único ao invés de ser a cópia de outro ser, como é comum para sua espécie.
@@ -33,10 +32,10 @@ Antes de misturar-se com humanos ele não tinha um nome. Shawn é seu nome de **
 
 <img src="IMGs/shawn.png" style="width:46%; float:right; margin:12;">
 
-Apesar de sua aparência preferida, maneirismos, gostos e hobbies, Shawn não é humano e não deve ser tratado como tal.
+Apesar de sua aparência preferida, maneirismos, gostos e hobbies, Shawn não é humano e não deve ser tratado como tal.<br>
 
 Shawn precisa de uma quantidade absurdamente grande de comida para se manter. Ainda mais caso queira continuar a mudar a própria forma constantemente, visto que o gasto de energia que cada mudança faz poderia ser considerado próximo a mais do que realmente valeria a pena por uma única presa.
-É omnívoro, podendo comer de tudo; Incluindo itens inorgânicos, apesar de não o fazer por gosto próprio.
+É omnívoro, podendo comer de tudo; Incluindo itens inorgânicos, apesar de não o fazer por gosto próprio.<br>
 
 Prefere comer vários tipos diferentes de carne por isso, apesar de carne humana ser sua predileta, ele tem uma dieta bem variada. Especialmente se comparar com outros de sua espécie.
 
@@ -78,3 +77,4 @@ Pela quantidade de seres que já se alimentou de e da quantidade absurda de huma
 [[Mistique]]
 [[X]]
 [[False]]
+[[Green]]

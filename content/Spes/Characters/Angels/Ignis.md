@@ -1,7 +1,7 @@
 ---
 title: O Primeiro
 created: 03/02/2026
-last-modified: 03/02/2026
+last-modified: 03/05/2026
 ---
 # SOBRE
 <img src="IMGs/ignisRef.png" alt="Ignis Reference" style="width:55%;
@@ -61,7 +61,7 @@ Ignis tinha perguntas e súplicas para um Deus que não respondia, caso sequer e
 
 <span style="color:rgb(255, 245, 245)">E o silencio era tão alto que poderia acabar deixando-o surdo.</span>
 
-Ignis foi o único sobrevivente da queda.
+Ignis foi o único sobrevivente da queda. <br>
 <span style="color:rgb(192, 0, 0)">E essa era de longe a última que viria a acontecer.</span>
 
 <img src="IMGs/wolfSide.jpg" class="center" style="width:auto;margin:auto;">
@@ -71,15 +71,14 @@ Ignis foi o único sobrevivente da queda.
 ---
 
 
-<img src="IMGs/ignisPreFall.png" alt="Avatar" class="avatar" style="width:250px; float:left; margin-right:12px; border:2.5px dashed #f7770e;">
+<img src="IMGs/ignisPreFall.png" alt="Avatar" class="avatar" style="width:100%%; float:left; margin-right:2%; margin-top:2%;border:2.5px dashed #f7770e;">
 O corpo de Ignis antes da queda era o comum para um anjo; o divino o mantinha em seu conceito. Era mais masculino em seu passado, o motivo da mudança sendo desconhecido. Ignis sempre teve um corpo forte, especialmente quando a Deusa ainda era presente. Apesar disso Ignis sempre se machucou e marcou fácil, sendo sempre visível quando havia tido participado de alguma luta.
 <br>
-
 <br>
 Seu cabelo se movimentava mais ou menos como fogo, e sua coloração geral era mais alaranjada. Ignis fazia uso do uniforme angelical de forma mais informal.
 
 ---
-<img src="IMGs/ignisAfterFall.png" alt="Avatar" class="avatar" style="width:250px; float:right; margin-right:12px; border:2.5px dashed #f7770e;">
+<img src="IMGs/ignisAfterFall.png" alt="Avatar" class="avatar" style="width:40%; float:right; margin-right:2%; margin-top:2%;border:2.5px dashed #f7770e;">
 O corpo de Ignis após a queda fora praticamente trocado pelas chamas, ele como um todo sendo uma combinação de tudo que queimou em uma espécie de corpo semissólido. A única forma que ele achou de controlar as chamas e não queimar tudo ao seu redor foi no processo arduo de produzir roupas usando seu próprio poder como "tecido". Suas luvas (e suas roupas no geral) podem aguentar e "selar" as chamas e é como ela mantém seu próprio corpo em uma forma mais estável.
 <br>
 
